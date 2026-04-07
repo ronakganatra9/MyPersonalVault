@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48158267558",
+    "project_id": "cardvault-fef81",
+    "storage_bucket": "cardvault-fef81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48158267558:android:157a23b72084b1a0f27c67",
+        "android_client_info": {
+          "package_name": "com.ronakganatra.cardvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48158267558-p6oco98pfnk2kr4803m430e9aepb1mh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcTB_WvgtBszQjKV1WdzNJjBXFlxp9ebk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48158267558-p6oco98pfnk2kr4803m430e9aepb1mh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
